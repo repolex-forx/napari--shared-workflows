@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "napari",
+  "repo": "shared-workflows",
+  "versions": [
+    {
+      "commit": "85fe6fae344194e67fa0716c05defa366cec46ab",
+      "parsed_at": "2026-10-28T13:16:16.651182+00:00",
+      "filetree": "filetree/85fe6fae344194e67fa0716c05defa366cec46ab.nq.gz",
+      "blobs": [
+        "blob/f8cfa9066ec2a476045c39b7d9e35e5537bc34f7.nq.gz",
+        "blob/7e903279c0e1561228866de19caa3e01d45952b3.nq.gz",
+        "blob/ffd28f109944f4ed442b3e312a7e1885d4db82f6.nq.gz",
+        "blob/7b64a734cb3caa8476f32ba84db4dbf1c3d08995.nq.gz",
+        "blob/1daf90845513633dc60349a6bace295ee7e3e638.nq.gz",
+        "blob/b32e40a9c4e2b254fb7cb3e41a07f601ba7eb0ac.nq.gz",
+        "blob/f8112b58e1bf88b41ff6dffc224f3614f3117458.nq.gz",
+        "blob/63bd53d6fbbfd655b347f23f5b7932399f0d99e6.nq.gz",
+        "blob/6253991b398ad4805a0187a4ced3f6c1ddb0857e.nq.gz",
+        "blob/d3b6eb870fff2fcf2bae34e1b039d0a76070f2f7.nq.gz",
+        "blob/450b38ad794afdcf042baf092c9c6c40f697dd03.nq.gz",
+        "blob/1764263f1118aaf58e9b61d47c52c1495c88cf7a.nq.gz",
+        "blob/dc7fbeb46bb003d61da950e8dd141922dabeb515.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
