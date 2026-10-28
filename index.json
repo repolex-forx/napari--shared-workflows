@@ -1,0 +1,11 @@
+{
+  "org": "napari",
+  "repo": "shared-workflows",
+  "versions": [
+    {
+      "commit": "85fe6fae344194e67fa0716c05defa366cec46ab",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:18:14.696273+00:00"
+    }
+  ]
+}
